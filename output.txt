@@ -1,0 +1,19 @@
+--------------------------------------------------------------------------
+[[45226,1],4]: A high-performance Open MPI point-to-point messaging module
+was unable to find any relevant network interfaces:
+
+Module: OpenFabrics (openib)
+  Host: helium-03
+
+Another transport will be used instead, although this may result in
+lower performance.
+--------------------------------------------------------------------------
+Dijkstra running... 
+Start time: Fri Jan  6 06:26:19 2017
+
+Finished with total time (sec): 0.016872
+Results:
+
+P:		     1	     2	     3	     4	     5	     6	     7	     8	     9	    10	    11	    12	    13	    14	
+Len:	     0	     3	     4	     2	     3	     3	     4	     3	     5	     2	     5	     3	     4	     6	
+Pred:	    -1	     0	     0	     0	     3	     0	     5	     3	     9	     0	     6	     9	     5	     2	

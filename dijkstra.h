@@ -1,5 +1,5 @@
-#ifndef _GRAPH_H
-#define _GRAPH_H
+#ifndef _DIJKSTRA_H
+#define _DIJKSTRA_H
 
 #define ROOT 0
 #define TRUE 1

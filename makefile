@@ -5,11 +5,11 @@
 ###############################################
 
 # name of the executable to be generated
-PROG = graph
+PROG = dijkstra
 # space-delimited list of header files
-HDRS = graph.h
+HDRS = dijkstra.h
 # space-delimited list of source files
-SRCS = graph.c 
+SRCS = dijkstra.c 
 
 #######################
 # Don't change these: #

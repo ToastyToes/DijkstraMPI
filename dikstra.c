@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <assert.h>
 #include <time.h>
-#include "graph.h"
+#include "dikstra.h"
 #include "mpi.h"
 
 int main(int argc, char *argv[])
